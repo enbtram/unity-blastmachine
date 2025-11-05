@@ -1,1 +1,1 @@
-2D Casual Game created by Unity
+Unity 2D Casual Game "BlastMachine"
